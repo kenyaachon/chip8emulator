@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/chip8emulator.dir/Source/Main.cpp.o  -o chip8emulator -lSDL2::SDL2 
